@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         // إنشاء نص الرسالة
-        let message = "طلب جديد من محل الكيك:\n\n";
+        let message = "طلب جديد من محل لوتس كيك:\n\n";
         cart.forEach(product => {
             message += `- ${product.name} (الكمية: ${product.quantity})\n`;
         });
