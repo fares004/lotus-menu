@@ -80,10 +80,10 @@ document.addEventListener("DOMContentLoaded", () => {
         message += "\nشكراً لتسوقكم معنا!";
 
         // رقم الهاتف (يمكن تغييره لرقم المتجر)
-        const phoneNumber = "1234567890";
+        const phoneNumber = "905366200279";
 
         // إنشاء رابط WhatsApp
-        const whatsappLink = `https://wa.me/${905366200279}?text=${encodeURIComponent(message)}`;
+        const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
         // توجيه المستخدم إلى رابط WhatsApp
         window.open(whatsappLink, "_blank");
