@@ -23,7 +23,7 @@
   
   main {
       flex: 1;
-      padding: 20px;
+      /* padding: 10px; */
   }
   
   /* تصميم النافبار */
@@ -91,6 +91,7 @@
   }
   
   .product-item {
+      min-width: 150px;
       background-color: #fff;
       border: 1px solid #ccc;
       border-radius: 8px;
@@ -110,7 +111,7 @@
   
   .product-details h3 {
       margin: 0;
-      font-size: 18px;
+      font-size: 12px;
       color: var(--text-color);
   }
   
