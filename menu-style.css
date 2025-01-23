@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Almarai:wght@300;400;700;800&family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Aref+Ruqaa:wght@400;700&family=Cairo:wght@200..1000&family=Changa:wght@200..800&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Indie+Flower&family=Lemonada:wght@300..700&family=Noto+Kufi+Arabic:wght@100..900&family=Parkinsans:wght@300..800&display=swap');
 :root {
   --main-color: #E63946;
-  --bg-color: #F1FAEE;
+  --bg-color: #ffffff;
   --text-color: #333;
   --hover-color: #D62839;
   --success-color: #28a745;
